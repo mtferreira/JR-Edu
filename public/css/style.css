@@ -1,0 +1,13 @@
+.body {
+   /* padding-top: 120px;*/
+    background-color:#dddddd;
+    font-family:Verdana, Geneva, sans-serif;
+}
+.container{
+    padding-top: 20px;
+    background-color: #ffffff;
+    border-radius: 5px 5px 5px 5px;
+}
+.white{
+    background-color: #ffffff;
+}
